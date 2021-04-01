@@ -10,4 +10,5 @@ This analysis is primary to be benefitial to the company developing this transpo
 
 In this analysis, I plan to use the MTA dataset which contains almost all the useful information needed for this project, which includes the amount of passengers at various times of the day moving through various stations in different regions.
 
+I plan to use sqlite to readin and explore the data before I furthur use python, pandas and matplotlib to do further analysis and graphing
 
